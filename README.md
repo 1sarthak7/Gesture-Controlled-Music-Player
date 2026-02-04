@@ -15,7 +15,7 @@
 
 <hr/>
 
-#  Gesture‑Controlled Music Player (Doctor Strange Edition)
+#  Gesture‑Controlled Music Player
 
 A **real‑time, music player** that lets you control playback using **hand gestures detected via your webcam**. Built with **Python**
 
