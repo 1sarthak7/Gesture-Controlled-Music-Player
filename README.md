@@ -80,33 +80,33 @@ HandTrakerMP3/
 
 ##  Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1 Clone the Repository
 
 ```bash
 git clone https://github.com/1sarthak7/Gesture-Controlled-Music-Player.git
 cd Gesture-Controlled-Music-Player
 ```
 
-### 2️⃣ Create & Activate Virtual Environment
+### 2 Create & Activate Virtual Environment
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3️⃣ Install Dependencies
+### 3 Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Add Songs
+### 4 Add Songs
 
 * Add **non‑DRM `.mp3` files** to the `songs/` folder
 
 ---
 
-## ▶️ Run the Application
+##  Run the Application
 
 ```bash
 python main.py
