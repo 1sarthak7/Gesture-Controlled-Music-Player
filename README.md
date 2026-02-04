@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-black?style=for-the-badge&logo=opencv" />
   <img src="https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pygame-Audio%20Engine-red?style=for-the-badge" />
 </p>
