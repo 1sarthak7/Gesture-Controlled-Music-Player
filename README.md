@@ -69,10 +69,7 @@ HandTrakerMP3/
 ├── main.py              # Main application
 ├── songs/               # Place your MP3 files here
 │   ├── song1.mp3
-│   ├── song2.mp3
-│
-├── venv/                # Virtual environment (not pushed)
-├── requirements.txt     # Dependencies
+│   ├── song2.mp3     
 └── README.md
 ```
 
