@@ -15,27 +15,25 @@
 
 <hr/>
 
-# 🎶 Gesture‑Controlled Music Player (Doctor Strange Edition)
+#  Gesture‑Controlled Music Player (Doctor Strange Edition)
 
-A **real‑time, touch‑free music player** that lets you control playback using **hand gestures detected via your webcam**. Built with **Python + Computer Vision**, and enhanced with **Doctor‑Strange‑style magical visual effects** for a cinematic experience.
-
-> ✋ No mouse. ⌨️ No keyboard. 🎧 Just gestures.
+A **real‑time, music player** that lets you control playback using **hand gestures detected via your webcam**. Built with **Python**
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
-* 🎥 **Real‑time hand tracking** using MediaPipe
-* 🖐️ **Gesture‑based controls** (Play / Pause / Stop / Next / Previous)
-* 🔊 **Pinch‑based volume control** with smoothing
-* 🎶 **MP3 playlist support**
-* 🌀 **Doctor Strange inspired magic circle VFX**
-* ⚡ Optimized for **macOS (CoreAudio + OpenCV)**
-* 🧠 Modular, clean, exam‑ready architecture
+*  **Real‑time hand tracking** using MediaPipe
+*  **Gesture‑based controls** (Play / Pause / Stop / Next / Previous)
+*  **Pinch‑based volume control** with smoothing
+*  **MP3 playlist support**
+*  **Doctor Strange inspired magic circle VFX**
+*  Optimized for **macOS (CoreAudio + OpenCV)**
+*  Modular, clean, exam‑ready architecture
 
 ---
 
-## 🧠 Gesture Controls
+##  Gesture Controls
 
 | Gesture                | Action         |
 | ---------------------- | -------------- |
@@ -47,11 +45,9 @@ A **real‑time, touch‑free music player** that lets you control playback usin
 | 👈 Swipe Left          | Previous Track |
 | 🤏 Thumb + Index Pinch | Volume Control |
 
-> Gesture cooldowns are applied to avoid accidental triggers.
-
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" />
@@ -65,7 +61,7 @@ A **real‑time, touch‑free music player** that lets you control playback usin
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 HandTrakerMP3/
@@ -82,13 +78,13 @@ HandTrakerMP3/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/HandTrakerMP3.git
-cd HandTrakerMP3
+git clone https://github.com/1sarthak7/Gesture-Controlled-Music-Player.git
+cd Gesture-Controlled-Music-Player
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment
@@ -107,7 +103,6 @@ pip install -r requirements.txt
 ### 4️⃣ Add Songs
 
 * Add **non‑DRM `.mp3` files** to the `songs/` folder
-* Apple Music / DRM files ❌ not supported
 
 ---
 
@@ -117,33 +112,31 @@ pip install -r requirements.txt
 python main.py
 ```
 
-🟢 Press **`q`** to exit
+ Press **`q`** to exit
 
 ---
 
-## 🎨 Visual Effects
+##  Visual Effects
 
 * Rotating **magic mandala circles** attached to the hand center
 * Pulsing animation synced with playback state
 * Glowing visuals when music is playing
 * Dimmed effects when paused
 
-Inspired by **Doctor Strange spell circles** for a cinematic feel ✨
 
 ---
 
-## 🧩 Architecture Overview
+##  Architecture Overview
 
 * **MusicPlayer** → Audio loading, playback & volume
 * **GestureController** → Hand state & gesture interpretation
 * **VisualEffects** → Magic circle animations
 * **App** → Camera loop, UI overlay & orchestration
 
-Designed with **clear separation of concerns** for readability and scalability.
 
 ---
 
-## ⚠️ Notes & Limitations
+##  Notes & Limitations
 
 * Webcam access required
 * Best results under good lighting
@@ -152,25 +145,10 @@ Designed with **clear separation of concerns** for readability and scalability.
 
 ---
 
-## 🌱 Future Enhancements
-
-* 🎚️ Gesture calibration mode
-* 🖥️ PyQt / GUI interface
-* 🔥 Particle‑based spell effects
-* 🎛️ Custom gesture mapping
-* 🚀 FPS & performance optimization
-
----
-
-## 🧑‍💻 Author
+## Author
 
 **Sarthak Bhopale**
-Engineering Student | Python Developer | Computer Vision Enthusiast
+Engineering Student | Python Developer 
 
 ---
 
-## ⭐ Support the Project
-
-If you like this project, consider giving it a ⭐ on GitHub — it really helps!
-
-> *“The future of interaction is touchless.”* ✨
