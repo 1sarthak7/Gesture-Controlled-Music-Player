@@ -37,13 +37,13 @@ A **real‑time, music player** that lets you control playback using **hand gest
 
 | Gesture                | Action         |
 | ---------------------- | -------------- |
-| ✋ Single Open Palm     | Play / Resume  |
-| ✊ Single Fist          | Pause          |
-| ✋✋ Two Open Palms      | Stop           |
-| ✊✊ Two Fists           | Pause          |
-| 👉 Swipe Right         | Next Track     |
-| 👈 Swipe Left          | Previous Track |
-| 🤏 Thumb + Index Pinch | Volume Control |
+|  Single Open Palm    | Play / Resume  |
+|  Single Fist         | Pause          |
+|  Two Open Palms      | Stop           |
+|  Two Fists           | Pause          |
+|  Swipe Right         | Next Track     |
+|  Swipe Left          | Previous Track |
+|  Thumb + Index Pinch | Volume Control |
 
 ---
 
